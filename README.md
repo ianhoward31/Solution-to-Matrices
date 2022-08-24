@@ -1,5 +1,4 @@
 # Solution-to-Matrices
-Finds the unique solution vector "x" to any size "m" x "n" matrix and answer vector "b".
 Prerequisites: Visual Studio 2019 Community with C++ Developer Package (Free)
 
 Summary: Finds the unique solution vector "x" to any size "m" x "n" matrix and answer vector "b".
